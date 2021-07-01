@@ -11,7 +11,6 @@ const CONFIG = {
     btnReply : 'Thui ngại lém :<<<<', 
     reply: 'Vì cậu xinh gái vl >:((((',
     mess: 'Awwww >< tớ bíc mà yêu cậu moah moah :33',
-    messDesc: 'Nghiện mà còn ngại à ghéc ghê mau ib người ta đi kìa :<<<',
+    messDesc: 'Nghiện mà còn ngại à ghéc ghê >:(((',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //https://www.messenger.com/t/100016372809934
 }
