@@ -8,6 +8,7 @@ const CONFIG = {
     btnNo: 'Cậu mơ à :33',
     question:'Nói cho tớ lí do cậu thích tớ đi :vvvv',
     btnReply: 'Gửi cho tớ <3',
+    btnReplyno : 'Thui ngại lém :<<<<', 
     reply: 'Vì cậu xinh gái vl >:((((',
     mess: 'Awwww >< tớ bíc mà yêu cậu moah moah :33',
     messDesc: 'Nghiện mà còn ngại à ghéc ghê >:((((',
